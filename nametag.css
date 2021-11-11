@@ -1,0 +1,63 @@
+body{
+width: 100%;
+height: 100%;
+display:flex;
+justify-content:center;
+flex-direction:column;
+align-items: center;
+}
+
+.hello{
+    color: white;
+   letter-spacing: 20px;
+    font-size: 2.5in;
+    font-family: fantasy;
+    font-weight: 400;
+    display:flex;
+    
+
+    justify-content: center;
+}
+
+.name-tag-box{
+    border-radius: 10mm;
+    list-style: none;
+    background-color: red;
+    height: 7in;
+    width: 80%;
+
+}
+
+.my-name-is{
+    color: white;
+    font-family: Arial;
+    letter-spacing: 15mm
+    font-weight: semibold;    
+    font-size: 15mm;
+    display:flex;
+    justify-content: center;
+    justify-content: space-around;
+
+}
+
+.white-box{
+    background-color: white;
+    height: 40%;
+    width: 100%;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+
+   
+}
+.minako-hanada{
+    font-size: 13mm;
+    display:flex;
+    justify-content: space-around;
+    justify-content: center;
+    font;
+}
+
+.white-box{
+
+}
